@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/shadowbanks/blogPreviewCard)
-- Live Site URL: [Github Page](https://shadowbanks.github.io/blogPreviewCard/)
+- Solution URL: [Github](https://github.com/shadowbanks-frontendmaster-challenges/blogPreviewCard)
+- Live Site URL: [Github Page](https://shadowbanks-frontendmaster-challenges.github.io/blogPreviewCard/)
 
 ## My process
 
